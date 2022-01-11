@@ -1,0 +1,5 @@
+﻿  KohXinHao.c
+c:\users\win10\documents\assignment\assignment year 1 semester 1\programming assignment\koh xin hao (pcd 1)\koh xin hao (pcd 1)\kohxinhao.c(131): warning C4013: 'tolower' undefined; assuming extern returning int
+c:\users\win10\documents\assignment\assignment year 1 semester 1\programming assignment\koh xin hao (pcd 1)\koh xin hao (pcd 1)\kohxinhao.c(295): warning C4033: 'order' must return a value
+c:\users\win10\documents\assignment\assignment year 1 semester 1\programming assignment\koh xin hao (pcd 1)\koh xin hao (pcd 1)\kohxinhao.c(297): warning C4716: 'order': must return a value
+  KOH XIN HAO (PCD 1).vcxproj -> C:\Users\Win10\Documents\Assignment\Assignment Year 1 Semester 1\Programming assignment\KOH XIN HAO (PCD 1)\Debug\KOH XIN HAO (PCD 1).exe
